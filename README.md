@@ -1,4 +1,6 @@
-# parl_survey
+# Parliamentary survey analysis
+
+This is a repo under construction and lacks a lot of documentation necessary. Please bear with us.
 
 - *cspc_parliament_survey_2022_funcs.py*. This is a file with misc funcs to load survey data, select questions, etc.
 - *demopgraphic_plot_funcs.py*. File to make demographic plots for specific questions. Change these to change the plot appearance
